@@ -20,7 +20,7 @@
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+
 
 ### 🌐 Frontend
 
@@ -38,13 +38,13 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+
 
 ### 🔧 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+
 
 ---
 
@@ -64,12 +64,13 @@ AI powered interview platform built with React.js, Node.js, Express.js and Googl
 
 Full stack food delivery application built with React.js, Node.js, Express.js and MySQL.
 
-* User authentication
-* Restaurant management
-* Food management
-* Shopping cart
-* Bill calculation
-* REST APIs
+* Users can register and log in
+* Users can browse restaurants and food items
+* Users can view restaurant menus
+* Users can add and remove items from the cart
+* Users can view and calculate their total bill
+* Restaurants can manage their food items and menus
+
 
 ---
 

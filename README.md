@@ -1,7 +1,15 @@
-<h1 align="center" style="font-size: 40px;">
-  Hi 👋, I'm Aniket Singh
+<h1 align="center">
+<span style="color:#00F7FF;">👋 Hi, I'm</span>
+<span style="color:#A855F7;">Aniket Singh</span> 🚀
 </h1>
 
+<h3 align="center">
+💻 Full Stack Developer | 🎓 B.Tech CSE Student | 🤖 AI Enthusiast
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+AI+Powered+Projects;React+%7C+Node.js+%7C+Express;Code.+Build.+Learn.+Repeat." />
+</p>
 ---
 
 ## 🚀 About Me

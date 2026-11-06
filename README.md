@@ -1,4 +1,4 @@
-# Hi 👋, I'm Aniket Singh
+c# Hi 👋, I'm Aniket Singh
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=25\&duration=4000\&color=00F7FF\&center=true\&vCenter=true\&width=600\&lines=Full+Stack+Developer;B.Tech+CSE+Student;React+%7C+Node+%7C+Express;Building+AI+Powered+Projects)
 
@@ -76,10 +76,20 @@ Full stack food delivery application built with React.js, Node.js, Express.js an
 
 ## 📊 GitHub Stats
 
-![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AniketChandel\&show_icons=true\&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AniketChandel\&layout=compact\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AniketChandel&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniketChandel&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
 
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AniketChandel&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ## 🔥 GitHub Streak

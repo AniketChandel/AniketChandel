@@ -76,14 +76,22 @@ Full stack food delivery application built with React.js, Node.js, Express.js an
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AniketChandel&theme=github_dark" width="100%" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AniketChandel&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniketChandel&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AniketChandel&theme=github_dark" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AniketChandel&theme=github_dark" height="180" />
 </p>
 
 ---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AniketChandel&theme=tokyonight" />
+</p>
 
 ## 🔥 GitHub Streak
 

@@ -1,7 +1,6 @@
 <h1 align="center" style="font-size: 40px;">
   Hi 👋, I'm Aniket Singh
 </h1>
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=25\&duration=4000\&color=00F7FF\&center=true\&vCenter=true\&width=600\&lines=Full+Stack+Developer;B.Tech+CSE+Student;React+%7C+Node+%7C+Express;Building+AI+Powered+Projects)
 
 ---
 
